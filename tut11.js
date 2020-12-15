@@ -1,0 +1,10 @@
+console.log('this is tut 11');
+let a = window.document;
+ // a = prompt('this will destroy your computer. Type your computer name');
+ // a =confirm('are you sure want to delete this page');
+ a= window.innerHeight;
+ a=window.innerWidth;
+ a=scrollY;
+ a = location.toString();
+ a=window.history;
+console.log(a);
